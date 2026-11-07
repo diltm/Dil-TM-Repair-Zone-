@@ -1,0 +1,22 @@
+{
+  "short_name": "Dil TM",
+  "name": "Dil TM Repair Zone",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1040/1040254.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1040/1040254.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#111827",
+  "theme_color": "#ff5722",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "scope": "./"
+}
